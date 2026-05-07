@@ -1,7 +1,7 @@
 # XAI Healthcare Diagnostics
 
 > **Explainable Artificial Intelligence in Healthcare Diagnostics**  
-> Arjun Vooturi — University of North Florida
+> Arjun Vooturi,VenkatRam Reddy BaiReddy,Anjan Kumar Eruventi,Chenna Keshava Reddy Kodidala — University of North Florida
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://python.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1-red)](https://pytorch.org)
